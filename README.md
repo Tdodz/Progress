@@ -1,7 +1,7 @@
 # What I have learned so far IN HTML
 ## Basics
 In this section i learned about the some basic html5 tags,example;
-- *<!DOCTYPE html>*: This tag specifies the file format of the webpage "usually line one".
+- *!DOCTYPE html*: This tag specifies the file format of the webpage "usually line one".
 - *html*: This is a tag used to contains every part of the web page which has to be closed"in the code, it was opened in line 2 and closed at the end of the code".
 - *head*: this tag contains elements of the webpage that are not necessarily seen by the web page's user like the; meta, title, and some linking elements "opened in line 3 and closed in line 10".
 - *meta*: this is used to hold some information that can not be expressed on the main webpage like; the author, the description, the character set used in the code and more "used in lines 4,5 and 6". 
